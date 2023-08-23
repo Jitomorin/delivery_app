@@ -1,0 +1,21 @@
+flutter create <project_name>: Creates a new Flutter project with the specified name.
+flutter run: Runs the Flutter project in the current directory.
+flutter build <platform>: Builds the Flutter project for the specified platform.
+flutter doctor: Checks the Flutter installation and reports any errors or warnings.
+flutter pub get: Downloads the dependencies for the Flutter project.
+flutter pub upgrade: Updates the dependencies for the Flutter project to the latest versions.
+flutter test: Runs the unit tests for the Flutter project.
+flutter analyze: Performs a static analysis of the Flutter project's Dart code.
+flutter screenshot: Takes a screenshot of the Flutter project's current state.
+flutter symbolize: Symbols a stack trace from a Flutter application.
+flutter help: Prints a list of all Flutter CLI commands.
+For more information about each command, you can run flutter help <command>.
+
+Here are some additional Flutter CLI commands that you might find useful:
+
+flutter devices: Lists all connected devices that Flutter can run on.
+flutter emulators: Lists all available emulators that Flutter can run on.
+flutter attach: Attaches to a running Flutter application.
+flutter config: Configures Flutter settings.
+flutter clean: Deletes the build directory for the Flutter project.
+flutter downgrade: Downgrades the Flutter SDK to the previous version.
